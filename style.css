@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(153, 137, 146);
+    color: white;
+}
+.navBar{
+    height: 150px;
+    width: 96%;
+    display:flex;
+    padding:20px; 
+    justify-content: space-evenly;
+}
+.me{
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    border:solid black;
+    border-width:.2px;
+    margin-left:15px;
+    margin-top:15px;
+}
+.info{
+    font-size:12px;
+    text-align:left;
+}
+.exeContainer{
+    
+    margin: 3px;
+    height: 150px;
+    width: 99%;
+}
+.workContainer{
+    margin: 2px;
+    height: 210px;
+    width: 98%;
+    padding: 3; 
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.summer{
+     text-align:left;
+}
+.list{
+    font-size:18px;
+    text-align:left;
+}
+
+.eduContainer{
+   
+    margin: 2px;
+    height: 220px;
+    width: 96%;
+    padding: 3;
+    display:flex;
+    justify-content: space-evenly;
+    margin-left: 12px;
+}
+.skillContainer{
+    
+    margin: 3px;
+    height: 150px;
+    width: 96%;
+    justify-content: space-evenly;
+    display:flex;
+}
+.refContainer{
+   
+    margin: 1px;
+    height:90px;
+    width: 96%;
+}
+.address  {
+    font: size 12px;
+    text-align:left;
+}
+.pro{
+    text-align:left;
+}
+.work{
+    text-align:left;
+}
+.expo{
+    font-size:12px;
+    text-align:left;
+}
+.edu{
+    
+    text-align:left;
+}
+.school{
+    font-size:12px;
+    text-align:left;
+}
+.extraExp{
+    
+   
+    height: 120px;
+    width: 50%;
+}
+.more{
+    font-size:12px;
+    text-align:left;
+}
+.skill{
+    
+    text-align:left;
+}
+.top{
+    text-align:left;
+}
+.replay{
+    text-align:center;
+}
+.ref{
+    font-size:16px; 
+    text-align:center;
+}
